@@ -29,7 +29,7 @@
     </style>
   </head>
   <body>
-    <div id="oneGoogleBar"></div>
+    <div id="oneGoogleBar">Google</div>
     <iframe id="backgroundImage"
         src="chrome-untrusted://new-tab-page/custom_background_image?url=">
     </iframe>
