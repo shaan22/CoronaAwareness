@@ -1,0 +1,1 @@
+ int j=50; while(true) { if(j<10) break; j=j-10; } system.out.ptintln(“j is “+j);
